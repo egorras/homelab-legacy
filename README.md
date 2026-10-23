@@ -1,3 +1,5 @@
+> **Legacy automation paused:** GitHub Actions workflows are disabled while the lab is rebuilt gradually. See [.github/workflows/README.md](.github/workflows/README.md). The architecture below describes the previous setup, not a fresh installation.
+
 <div align="center">
 
 # 🏠 homelab
